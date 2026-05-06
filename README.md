@@ -2,9 +2,9 @@
 ### Interfaz gráfica SFML + C++17
 ---
 ### Integrantes:
-# - Bruno Garcia Lopez
-# - Sofia Rosales Bazan
-# - Piero Max Ortiz Villafuerte
+- Bruno Garcia Lopez
+- Sofia Rosales Bazan
+- Piero Max Ortiz Villafuerte
 
 ---
 
